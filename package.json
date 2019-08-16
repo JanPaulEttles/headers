@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/janpaulettles/headers/issues"
   },
-  "homepage": "https://github.com/janpaulettles/headers#readme"
+  "homepage": "https://github.com/janpaulettles/headers#readme",
+  "dependencies": {
+    "fast-csv": "^3.4.0"
+  }
 }
